@@ -1,0 +1,11 @@
+.title {
+  font-family: "Exo 2.0 Thin", arial;
+  font-size: 36px;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.004);
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-weight: normal;
+}
