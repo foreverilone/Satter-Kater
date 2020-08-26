@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e58e4e3.chunk.css",
-    "main.js": "/static/js/main.10e21656.chunk.js",
-    "main.js.map": "/static/js/main.10e21656.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3ada0580.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3ada0580.js.map",
-    "static/js/2.245d1fca.chunk.js": "/static/js/2.245d1fca.chunk.js",
-    "static/js/2.245d1fca.chunk.js.map": "/static/js/2.245d1fca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.46de5f28a1dfb78d2516dd693158613f.js": "/precache-manifest.46de5f28a1dfb78d2516dd693158613f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3e58e4e3.chunk.css.map": "/static/css/main.3e58e4e3.chunk.css.map",
-    "static/js/2.245d1fca.chunk.js.LICENSE.txt": "/static/js/2.245d1fca.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/static/media/Pattern.3d7e1ad7.png",
-    "static/media/post-list-item.css": "/static/media/PhotoSold.95ed1a4e.png"
+    "main.css": "/satter-kater/static/css/main.bbd57e30.chunk.css",
+    "main.js": "/satter-kater/static/js/main.10e21656.chunk.js",
+    "main.js.map": "/satter-kater/static/js/main.10e21656.chunk.js.map",
+    "runtime-main.js": "/satter-kater/static/js/runtime-main.1daf0152.js",
+    "runtime-main.js.map": "/satter-kater/static/js/runtime-main.1daf0152.js.map",
+    "static/js/2.481a3d9d.chunk.js": "/satter-kater/static/js/2.481a3d9d.chunk.js",
+    "static/js/2.481a3d9d.chunk.js.map": "/satter-kater/static/js/2.481a3d9d.chunk.js.map",
+    "index.html": "/satter-kater/index.html",
+    "precache-manifest.baa41c3744028f50f4714478320daf01.js": "/satter-kater/precache-manifest.baa41c3744028f50f4714478320daf01.js",
+    "service-worker.js": "/satter-kater/service-worker.js",
+    "static/css/main.bbd57e30.chunk.css.map": "/satter-kater/static/css/main.bbd57e30.chunk.css.map",
+    "static/js/2.481a3d9d.chunk.js.LICENSE.txt": "/satter-kater/static/js/2.481a3d9d.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/satter-kater/static/media/Pattern.3d7e1ad7.png",
+    "static/media/post-list-item.css": "/satter-kater/static/media/PhotoSold.95ed1a4e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ada0580.js",
-    "static/js/2.245d1fca.chunk.js",
-    "static/css/main.3e58e4e3.chunk.css",
+    "static/js/runtime-main.1daf0152.js",
+    "static/js/2.481a3d9d.chunk.js",
+    "static/css/main.bbd57e30.chunk.css",
     "static/js/main.10e21656.chunk.js"
   ]
 }
